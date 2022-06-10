@@ -1,4 +1,6 @@
-### Hi there 👋
+## Hello, welcome to my profile!!
+## I´m Laura and my nickname is Laurinha
+
 
 <!--
 **laurinhapanzenhagen/laurinhapanzenhagen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
